@@ -1,0 +1,1 @@
+# shoprady.github.io
