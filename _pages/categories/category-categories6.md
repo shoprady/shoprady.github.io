@@ -1,5 +1,5 @@
 ---
-title: "RL"
+title: "Reinforcement Learning"
 layout: category
 permalink: /categories/categories6/
 author_profile: true
