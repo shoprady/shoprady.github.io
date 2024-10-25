@@ -1,5 +1,5 @@
 ---
-title: "PR"
+title: "Pattern Recognition"
 layout: category
 permalink: /categories/categories4/
 author_profile: true
